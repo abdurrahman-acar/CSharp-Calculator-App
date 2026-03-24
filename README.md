@@ -9,7 +9,7 @@ Bu proje C# kullanılarak geliştirilmiş basit bir konsol hesap makinesi uygula
 * Hatalı girişlere karşı kontrol (try-catch)
 * İşleme devam edebilme
 
-## 🛠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 * C#
 * .NET Console
